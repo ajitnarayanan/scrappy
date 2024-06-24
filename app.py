@@ -3,6 +3,6 @@ app = Flask(__name__)
 
 
 
-@app.route("/")
+@app.route("/scraper/scrape") 
 def home():
     return "Hello, Flask!"
