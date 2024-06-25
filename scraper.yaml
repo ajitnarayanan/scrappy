@@ -42,7 +42,7 @@ paths:
         - scraper
       responses:
         "200":
-          description: Successful operation
+         description: Successful operation
          content:
             text/plain:
               schema:
